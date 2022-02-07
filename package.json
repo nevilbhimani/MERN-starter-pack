@@ -1,0 +1,19 @@
+{
+  "name": "mern_shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list built with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevilbhimani/MERN-starter-pack.git"
+  },
+  "author": "Nevil Bhimani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nevilbhimani/MERN-starter-pack/issues"
+  },
+  "homepage": "https://github.com/nevilbhimani/MERN-starter-pack#readme"
+}
